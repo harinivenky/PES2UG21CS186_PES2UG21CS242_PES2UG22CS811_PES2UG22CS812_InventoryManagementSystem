@@ -1,1 +1,1 @@
-# PES2UG21CS186_PES2UG21CS242_PES2UG22CS811_PES2UG22CS812_InventoryManagementSystem
+The project is pushed as a zip file. Please download the zip file to view its contents. 
